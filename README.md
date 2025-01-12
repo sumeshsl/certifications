@@ -8,9 +8,6 @@
   Credential ID: [CLF-C02](https://cp.certmetrics.com/amazon/en/public/verify/credential/8d1f31c870fd4ae290325b3c19bbcbd1)  
   Valid Through: 08/2027
 
-  - 
-  - 
-
 
 ## Academic Achievements
 - **Master of Science in Computer Science**  
