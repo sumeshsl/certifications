@@ -8,6 +8,10 @@
   Credential ID: [CLF-C02](https://cp.certmetrics.com/amazon/en/public/verify/credential/8d1f31c870fd4ae290325b3c19bbcbd1)  
   Valid Through: 08/2027
 
+  - [AWS Certified Solutions Architect – Associate](./certifications/aws_certified_solutions_architect_associate_certificate.pdf)
+  - [AWS Certified Cloud Practitioner](./certifications/aws_certified_cloudpractitioner_certificate.pdf)
+
+
 ## Academic Achievements
 - **Master of Science in Computer Science**  
   Villanova University, Expected: May 2026  
